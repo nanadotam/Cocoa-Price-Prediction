@@ -6,7 +6,7 @@
   <img src="imgs/cocoa_market.jpg" alt="Cocoa Market Prediction" />
 </p>
 
-<p align="center">
+<p align="justify">
   Welcome to the Predictive Analytics for Cocoa Market Trends project! This repository contains the code and resources for predicting cocoa prices using Long Short-Term Memory (LSTM) neural networks. With the power of deep learning, we aim to forecast cocoa prices and provide valuable insights for stakeholders in the cocoa industry.
 </p>
 
