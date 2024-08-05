@@ -35,6 +35,9 @@ The LSTM model is built using TensorFlow and Keras. We trained the model on the 
 ## Evaluation and Optimization 📈
 Once the model was trained, we evaluated its performance on the testing dataset. We computed various metrics such as mean squared error (MSE), and mean absolute error (MAE) to assess the model's accuracy. We visualized the predicted cocoa prices alongside the actual prices to gain insights into the model's performance. Optimization techniques, including parameter tuning and cross-validation, were employed to enhance model performance.
 
+## Models
+https://github.com/nanadotam/AI-Final-Proj/tree/main/models 
+
 ## Usage 💪🏻
 To run the project locally, follow these steps:
 1. Clone this repository: 
