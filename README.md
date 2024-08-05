@@ -133,4 +133,4 @@ Here are some screenshots of the Streamlit app in action:
    - Description of the historical data view.
 
 ## YouTube Video 📹
-A demonstration video showing how the application works is available on YouTube. You can watch it [here](https://www.youtube.com/watch?v=your_video_link).
+A demonstration video showing how the application works is available on YouTube. You can watch it [here](https://youtu.be/bJJ2wb2pNSM).
